@@ -1,0 +1,28 @@
+/* font-family: 'Karla', sans-serif; */
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@200;300;400;800&display=swap');
+/* font-family: 'Lora', serif; */
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+/* font-family: 'Marcellus', serif; */
+@import url('https://fonts.googleapis.com/css2?family=Marcellus&display=swap');
+/* font-family: 'Noto Sans KR' */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500&display=swap');
+/* font-family: 'Shippori Mincho', serif; */
+@import url('https://fonts.googleapis.com/css2?family=Shippori+Mincho&display=swap');
+
+
+html, body{margin:0;}
+p,figure,h1,h2,h3,h4,h5,h6{margin:0;}
+ul,li{list-style: none; margin:0; padding:0;}
+
+*{  font-family: 'Marcellus', serif;
+    box-sizing: border-box;
+    color: white;
+}
+img{width:100%; vertical-align: top;}
+a{
+    text-decoration: none;
+    
+}
+input{
+    border: none;
+}
